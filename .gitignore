@@ -10,7 +10,7 @@ TEST
 #101110011
 
 
-# Distribution / packaging
+# Distribution / packaging - Testing to see what code reviewer platforms pick up. 
 .Python
 build/
 develop-eggs/
